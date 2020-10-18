@@ -1,0 +1,150 @@
+html{
+ overflow-x:hidden;
+ overflow-y:scroll;
+}
+
+.banner{
+  width:100%;
+  height:990px;
+  background-image:url('../images/kich-thuoc-1280x1025.png');
+  background-repeat:no-repeat;
+}
+
+.marketing-deparment{
+  font-size:20px !important;
+  position:absolute !important;
+  left:20% !important;
+  top:29% !important;
+}
+
+.customer-service{
+  font-size:20px !important;
+  position:absolute !important;
+  left:69% !important;
+  top:29% !important;
+}
+
+.nhatnam-project{
+   font-size:20px !important;
+   position:absolute !important;
+   left:10% !important;
+   top:41% !important;
+}
+
+.vset-project{
+   font-size:20px !important;
+   position:absolute !important;
+   left:35% !important;
+   top:41% !important;
+}
+
+.team-7{
+   font-size:20px !important;
+   position:absolute !important;
+   left:5% !important;
+   top:53% !important;
+}
+
+.team-8{
+   font-size:20px !important;
+   position:absolute !important;
+   left:21% !important;
+   top:57% !important; 
+}
+
+.content{
+  font-size:20px !important;
+  position:absolute !important;
+  left:7% !important;
+  top:60% !important; 
+}
+
+.content.first-staff{
+  font-size:15px !important;
+  position:absolute !important;
+  left:7% !important;
+  top:65% !important; 
+}
+
+.content.second-staff{
+  font-size:15px !important;
+  position:absolute !important;
+  left:7% !important;
+  top:67% !important; 
+}
+
+.content.third-staff{
+  font-size:15px !important;
+  position:absolute !important;
+  left:7% !important;
+  top:69% !important; 
+}
+
+.seo{
+  font-size:20px !important;
+  position:absolute !important;
+  left:7% !important;
+  top:75% !important; 
+}
+
+.seo.first-staff{
+  position:absolute !important;
+  top:79% !important;
+  font-size:15px !important;
+}
+
+.ads{
+  font-size:20px !important;
+  position:absolute !important;
+  left:7% !important;
+  top:83.6% !important; 
+}
+
+.ads.first-staff{
+  font-size:15px !important;
+  position:absolute !important;
+  top:89% !important;
+}
+
+.CONTENT{
+  font-size:20px !important;
+  position:absolute !important;
+  left:23% !important;
+  top:63.4% !important; 
+}
+
+.CONTENT.first-staff{
+   font-size:15px !important;
+   position:absolute !important;
+}
+
+.CONTENT.second-staff{
+   position:absolute !important;
+   top:70% !important;
+   font-size:15px !important;
+}
+
+.design{
+  position:absolute !important;
+  top:74.4% !important;
+  left:23% !important; 
+  font-size:20px !important;
+}
+
+.design.first-staff{
+  font-size:15px !important;
+}
+
+.SEO{
+  position:absolute !important;
+  top:82.2% !important;
+  left:23% !important; 
+  font-size:20px !important;
+}
+
+.ADS{
+  position:absolute !important;
+  top:90.5% !important;
+  left:23% !important; 
+  font-size:20px !important;
+}
